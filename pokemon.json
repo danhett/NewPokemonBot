@@ -1,0 +1,22 @@
+{
+	"origin": ["#name#, #type1# type Pokémon. #desc#",
+			    "#name#, #type1#/#type2# type Pokémon. #desc#"],
+
+	"name": ["#frag1##frag2#", "#frag1##frag2##frag2#"],
+
+	"frag1":["Arb", "Ack","Amb", "Ata", "Ato", "Atri", "Aver", "Apor", "Arfe", "Arpo", "Adse", "Awe",
+			 		 "Bat", "Bar","Bor", "Bir", "Bre", "Bro", "Bif", "Bun", "Bop", "Bep", "Bess", "Batt",
+			 	   "Mi", "Moo","Mu", "Ma", "Mee", "Meh", "Mup", "Mop", "Mun", "Mir", "Mig", "Mif"],
+
+	"frag2":["saur", "kachu", "izard", "eon", "oppon", "vix", "pin", "pine", "pit", "tar", "mon", "don", "gon"],
+
+	"type1": ["a Bug", "a Dark", "a Dragon", "an Electric", "a Fairy", "a Fighting", "a Fire", "a Flying", "a Ghost", "a Grass", "a Ground", "an Ice", "a Normal", "a Poison", "a Psychic", "a Rock", "a Steel", "a Water"],
+	"type2": ["Bug", "Dark", "Dragon", "Electric", "Fairy", "Fighting", "Fire", "Flying", "Ghost", "Grass", "Ground", "Ice", "Normal", "Poison", "Psychic", "Rock", "Steel", "Water"],
+
+	"desc": ["#frequency# found #activity# #location# #fact#"],
+
+	"frequency":["Commonly", "Often", "Occasionally", "Rarely", "Frequently"],
+	"activity": ["snoozing", "hovering", "stalking", "feeding", "drinking", "bathing", "dancing"],
+	"location": ["on Route 12", "in dark caves", "in shallow water", "in the sun"],
+	"fact": ["it lives on berries and pounces on enemies.", "it likes to disguise itself as a rock."]
+}
