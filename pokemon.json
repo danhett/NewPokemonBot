@@ -5,10 +5,21 @@
 	"name": ["#frag1##frag2#", "#frag1##frag2##frag2#"],
 
 	"frag1":["Arb", "Ack","Amb", "Ata", "Ato", "Atri", "Aver", "Apor", "Arfe", "Arpo", "Adse", "Awe",
-			 		 "Bat", "Bar","Bor", "Bir", "Bre", "Bro", "Bif", "Bun", "Bop", "Bep", "Bess", "Batt",
-			 	   "Mi", "Moo","Mu", "Ma", "Mee", "Meh", "Mup", "Mop", "Mun", "Mir", "Mig", "Mif"],
-
-	"frag2":["saur", "kachu", "izard", "eon", "oppon", "vix", "pin", "pine", "pit", "tar", "mon", "don", "gon"],
+			 "Bat", "Bar","Bor", "Bir", "Bre", "Bro", "Bif", "Bun", "Bop", "Bep", "Bess", "Batt",
+			 "Car", "Cir","Cur", "Cot", "Cor", "Car", "Care", "Cac", "Coo", "Cur", "Caw", "Cop",
+			 "Dep", "Doo","Dor", "Dir", "Dav", "Dac", "Dib", "Dig", "Dag", "Dett", "Daw", "Dee",
+			 "Ee", "Es","Ett", "Eor", "Eck", "Este", "Eper", "Eter", "Eta", "Epa", "Ela", "Ert",
+			 "Fae", "Fa","Fi", "Fee", "Fo", "For", "Fur", "Fis", "Fas", "Fun", "Fes", "Fit",
+			 "Ga", "Geh","Gen", "Gor", "Goo", "Gar", "Gee", "Gip", "Gar", "Goe", "Gan", "Gur",
+			 "Har", "Hip","Hur", "Hoo", "Haf", "Huj", "Hed", "Hok", "Hud", "Hoo", "Hae", "Hee",
+			 "Ipp", "Io","Iss", "Iso", "Ick", "Ire", "Inv", "Ing", "Ird", "Illu", "Ipe", "Ide",
+			 "Ja", "Jee","Jip", "Jol", "Jop", "Jad", "Jer", "Jee", "Juf", "Jas", "Jav", "Jin",
+			 "Kee", "Kip","Kir", "Ker", "Kad", "Kur", "Kut", "Koo", "Kir", "Kes", "Kat", "Kil",
+			 "Lipp", "Lou","Lik", "Laa", "Lea", "Lur", "Lif", "Lak", "Lef", "Lav", "Led", "Liy",
+			 "Mi", "Moo","Mu", "Ma", "Mee", "Meh", "Mup", "Mop", "Mun", "Mir", "Mig", "Mif",
+			 "Na", "Nur","Ned", "Nil", "Nor", "Nuk", "Nev", "Ner", "Nij", "Nal", "Nap", "Nez"],
+	
+	"frag2":["saur", "kachu", "izard", "eon", "oppon", "vix", "pin", "pine", "pit", "tar", "mon", "don", "gon", "lix", "poreon", "nim", "nin", "pin", "rar", "ror","rax", "rex", "chu", "ish", "ras", "bat", "ian", "key", "ape", "wag", "ath", "ta", "ash", "let", "ler", "wak", "don", "wat", "me", "her", "har", "ar", "vion", "ther"],
 
 	"type1": ["a Bug", "a Dark", "a Dragon", "an Electric", "a Fairy", "a Fighting", "a Fire", "a Flying", "a Ghost", "a Grass", "a Ground", "an Ice", "a Normal", "a Poison", "a Psychic", "a Rock", "a Steel", "a Water"],
 	"type2": ["Bug", "Dark", "Dragon", "Electric", "Fairy", "Fighting", "Fire", "Flying", "Ghost", "Grass", "Ground", "Ice", "Normal", "Poison", "Psychic", "Rock", "Steel", "Water"],
@@ -17,6 +28,6 @@
 
 	"frequency":["Commonly", "Often", "Occasionally", "Rarely", "Frequently"],
 	"activity": ["snoozing", "hovering", "stalking", "feeding", "drinking", "bathing", "dancing"],
-	"location": ["on Route 12", "in dark caves", "in shallow water", "in the sun"],
+	"location": ["on Route 12", "in dark caves", "in shallow water", "in the sun"], 
 	"fact": ["it lives on berries and pounces on enemies.", "it likes to disguise itself as a rock."]
 }
