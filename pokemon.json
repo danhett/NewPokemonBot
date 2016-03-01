@@ -17,9 +17,15 @@
 			 "Kee", "Kip","Kir", "Ker", "Kad", "Kur", "Kut", "Koo", "Kir", "Kes", "Kat", "Kil",
 			 "Lipp", "Lou","Lik", "Laa", "Lea", "Lur", "Lif", "Lak", "Lef", "Lav", "Led", "Liy",
 			 "Mi", "Moo","Mu", "Ma", "Mee", "Meh", "Mup", "Mop", "Mun", "Mir", "Mig", "Mif",
-			 "Na", "Nur","Ned", "Nil", "Nor", "Nuk", "Nev", "Ner", "Nij", "Nal", "Nap", "Nez"],
+			 "Na", "Nur","Ned", "Nil", "Nor", "Nuk", "Nev", "Ner", "Nij", "Nal", "Nap", "Nez",
+			 "Pa", "Par","Pir", "Por", "Pol", "Pel", "Pev", "Pes", "Peb", "Pik", "Pid", "Pix",
+			 "Ras", "Ref","Rel", "Rev", "Rab", "Rig", "Rip", "Ril", "Reh", "Rai", "Rae", "Roo",
+			  "Sha", "Sa","Sar", "Sae", "Set", "Sep", "Sen", "Soo", "Sor", "Saf", "Sac", "Sil",
+			  "Tar", "Tad","Tee", "Tri", "Tor", "Tif", "Til", "Tac", "Tra", "Tree", "Tro", "Tik",
+			  "Vi", "Va","Ver", "Vri", "Voo", "Vou", "Vik", "Vid", "Vur", "Vug", "Vok", "Var",
+			  "Wa", "War","Wil", "Wig", "Wer", "Wad", "Wab", "Wot", "Woa", "Wee", "Wol", "Wes"],
 	
-	"frag2":["saur", "kachu", "izard", "eon", "oppon", "vix", "pin", "pine", "pit", "tar", "mon", "don", "gon", "lix", "poreon", "nim", "nin", "pin", "rar", "ror","rax", "rex", "chu", "ish", "ras", "bat", "ian", "key", "ape", "wag", "ath", "ta", "ash", "let", "ler", "wak", "don", "wat", "me", "her", "har", "ar", "vion", "ther"],
+	"frag2":["saur", "kachu", "izard", "eon", "oppon", "vix", "pin", "pine", "pit", "tar", "mon", "don", "gon", "lix", "poreon", "nim", "nin", "pin", "rar", "ror","rax", "rex", "chu", "ish", "ras", "bat", "ian", "key", "ape", "wag", "ath", "ta", "ash", "let", "ler", "wak", "don", "wat", "me", "her", "har", "ar", "vion", "ther", "ix", "ir", "it", "urn", "iff", "ill", "tu", "eep", "luff", "loom", "wip", "row", "gar", "bull", "ing", "ade", "old", "aid", "ory", "our", "kid", "by", "tar", "gia", "ken", "omp", "er", "err", "olo", "dot", "leaf", "try", "low", "ada", "roth", "mur", "eye", "vile", "tite", "tric", "tic", "ilo", "mer", "ava", "gon", "ron", "pon", "pok", "bas", "tic", "on", "pet", "kull", "lops", "naut", "leo", "las", "los", "lias", "char", "ape", "inx", "io"],
 
 	"type1": ["a Bug", "a Dark", "a Dragon", "an Electric", "a Fairy", "a Fighting", "a Fire", "a Flying", "a Ghost", "a Grass", "a Ground", "an Ice", "a Normal", "a Poison", "a Psychic", "a Rock", "a Steel", "a Water"],
 	"type2": ["Bug", "Dark", "Dragon", "Electric", "Fairy", "Fighting", "Fire", "Flying", "Ghost", "Grass", "Ground", "Ice", "Normal", "Poison", "Psychic", "Rock", "Steel", "Water"],
