@@ -30,10 +30,14 @@
 	"type1": ["a Bug", "a Dark", "a Dragon", "an Electric", "a Fairy", "a Fighting", "a Fire", "a Flying", "a Ghost", "a Grass", "a Ground", "an Ice", "a Normal", "a Poison", "a Psychic", "a Rock", "a Steel", "a Water"],
 	"type2": ["Bug", "Dark", "Dragon", "Electric", "Fairy", "Fighting", "Fire", "Flying", "Ghost", "Grass", "Ground", "Ice", "Normal", "Poison", "Psychic", "Rock", "Steel", "Water"],
 
-	"desc": ["#frequency# found #activity# #location# #fact#"],
-
-	"frequency":["Commonly", "Often", "Occasionally", "Rarely", "Frequently"],
-	"activity": ["snoozing", "hovering", "stalking", "feeding", "drinking", "bathing", "dancing"],
-	"location": ["on Route 12", "in dark caves", "in shallow water", "in the sun"], 
-	"fact": ["it lives on berries and pounces on enemies.", "it likes to disguise itself as a rock."]
+	"desc": ["#frequency# #activity# #location#, #fact#"],
+	"frequency": ["Commonly", "Often", "Occasionally", "Rarely", "Frequently", "Always", "Sometimes", "Regularly", "Very often", "Usually", "Very occasionally", "Infrequently"],
+	"activity": ["snoozing", "hovering", "stalking", "feeding", "drinking", "bathing", "dancing", "fighting", "singing", "laughing", "hunting", "following Pokemon trainers", "stealing food", "getting into mischief", "getting up to no good", "making friends", "resting", "hiding", "working out", "snuffling around", "digging holes", "hanging upside-down", "stealthily hiding"],
+	"location": ["on Route 12", "in dark caves", "in shallow water", "in the sun", "in tall grass", "in rivers", "in lakes", "under the sea", "in the clouds", "near towns and cities", "near quiet villages", "on busy Routes", "in the mountains", "in Pokemon Gyms", "on Victory Road", "in swamps", "in the desert", "in the snow", "in volcanoes"],
+	
+	"fact": ["it #eats# #food# and #action# #target#."],
+	"eats": ["eats", "consumes", "licks", "adores", "hates", "growls at", "depends on", "stalks", "hunts", "collects", "ingests", "is hostile to"],
+	"food":["berries", "fruit", "animals", "bushes", "trees", "frogs"],
+	"action":["jumps on", "attacks", "falls in love with", "chases", "hunts", "tickles", "licks", "bites", "gnaws", "stares at", "psyches out", "sniffs around", "emulates", "copies"],
+	"target":["it's enemies", "trainers","passers-by", "everyone in sight", "people on bikes", "fish", "birds", "small insects"]
 }
